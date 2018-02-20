@@ -20,7 +20,7 @@ The videos walk you through creating a new activity, entering database material,
 
 Individual Assignment 4 Part 2 Instructions
 
-I have uploaded my Android App to our classroom repository: https://github.com/CMSC-355-Spring-18/MyApplication.  You may use my code as a starting point.  I blended fragments and activities together. 
+I have uploaded my Android App to our classroom repository: https://github.com/CMSC-355-Spring-18/MyApplication.  You may use my code as a starting point.  I blended fragments and activities together. Make sure you fork from this file before starting your work.
 
 The app you are to write consists of three screens: 1) a Welcome screen and 2) an EnterValues screen, and 3) a Results screen.
 
